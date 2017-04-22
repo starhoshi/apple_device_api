@@ -5,25 +5,11 @@ size: 9.5 inches (241.2 mm) (height) x 7.31 inches (185.7 mm) (width) x 0.37 inc
 color:
   - Black
   - White
-battery:
-weight:
-ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-* '''Battery:''' Up to 10 hours of Internet use
-* '''Weight:''' 1.44 pounds (652 g) iPad3,1 model; 1.46 pounds (662 g) 4G models
-* '''Wireless:'''
-** '''2G:''' GSM/EDGE (850, 900, 1800, 1900 MHz); (iPad3,2 model) CDMA 1xRTT (800, 1900 MHz)
-** '''3G:''' UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1900, 2100 MHz); (iPad3,2 model) CDMA EV-DO Rev. A (800, 1900 MHz)
-** '''LTE:''' 700, (iPad3,3 model) 2100 MHz
-** '''Bluetooth:''' 4.0
-** '''Wi-Fi:''' Dual-band 802.11a/b/g/n
-* '''RAM:''' 1 GB
-* '''Voice Assistant:''' [[Siri]] (Requires [[iOS]] 6 or newer)
-* '''Rear camera:''' 5 MP photos and 1080p videos @ 30 FPS (iSight Camera)
-* '''Front camera:''' VGA photos and videos @ 30 FPS, [[FaceTime]] supported
-* '''SIM Card:''' Micro-SIM (iPad3,2 and iPad3,3 models)
-* '''Connector:''' 30-pin
+battery: Up to 10 hours of Internet use
+weight: 1.44 pounds (652 g) iPad3,1 model; 1.46 pounds (662 g) 4G models
+ram: 1 GB
+voice_assistant: Siri (Requires iOS 6 or newer)
+rear_camera: 5 MP photos and 1080p videos @ 30 FPS (iSight Camera)
+front_camera: VGA photos and videos @ 30 FPS, FaceTime supported
+sim_card: Micro-SIM (iPad3,2 and iPad3,3 models)
+connector: 30-pin

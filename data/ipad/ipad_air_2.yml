@@ -6,23 +6,11 @@ color:
   - Black & Space Gray
   - White & Silver
   - White & Gold
-battery:
-weight:
+battery: Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
+weight: 0.96 pounds (437 g) Wi-Fi model; 0.98 pounds (444 g) iPad5,4 model
 ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-* '''Battery:''' Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
-* '''Weight:''' 0.96 pounds (437 g) Wi-Fi model; 0.98 pounds (444 g) iPad5,4 model
-* '''Wireless:'''
-** '''2G:'''  (iPad5,4 model)
-** '''3G:'''  (iPad5,4 model)
-** '''LTE:''' (iPad5,4 model)
-** '''Wi-Fi:''' Dual-band 802.11a/​b/​g/​n/​ac
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera:''' 8 MP photos and 1080p videos @ 30 FPS (iSight Camera)
-* '''Front camera:''' 1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
-* '''SIM Card:''' Nano-SIM (supports Apple SIM)
-* '''Connector:''' [[Lightning Connector]]
+voice_assistant: Siri
+rear_camera: 8 MP photos and 1080p videos @ 30 FPS (iSight Camera)
+front_camera: 1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
+sim_card: Nano-SIM (supports Apple SIM)
+connector: Lightning Connector

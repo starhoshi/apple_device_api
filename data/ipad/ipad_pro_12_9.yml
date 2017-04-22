@@ -6,26 +6,11 @@ color:
   - Black & Space Gray
   - White & Silver
   - White & Gold
-battery:
-weight:
+battery: Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
+weight: 1.57 pounds (713 g) J98aAP model; 1.59 pounds (723 g) J99aAP model
 ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-* '''Display:'''
-* '''Size:'''
-* '''Color:'''
-* '''Battery:''' Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
-* '''Weight:''' 1.57 pounds (713 g) [[J98aAP]] model; 1.59 pounds (723 g) [[J99aAP]] model
-* '''Wireless:'''
-** '''2G:'''  ([[J99aAP]] model)
-** '''3G:'''  ([[J99aAP]] model)
-** '''LTE:''' ([[J99aAP]] model)
-** '''Wi-Fi:''' (802.11a/​b/​g/​n/​ac); dual channel (2.4GHz and 5GHz); HT80 with MIMO
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera:''' 8 MP photos and 1080p videos @ 30 FPS (iSight Camera)
-* '''Front camera:''' 1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
-* '''SIM Card:''' Nano-SIM (supports Apple SIM)
-* '''Connector:''' [[Lightning Connector]]
+voice_assistant: Siri
+rear_camera: 8 MP photos and 1080p videos @ 30 FPS (iSight Camera)
+front_camera: 1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
+sim_card: Nano-SIM (supports Apple SIM)
+connector: Lightning Connector

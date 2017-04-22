@@ -7,23 +7,11 @@ color:
   - White & Silver
   - White & Gold
   - White & Rose Gold
-battery:
-weight:
+battery: Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
+weight: 0.96 pounds (437 g) J127AP model; 0.98 pounds (444 g) J128AP model
 ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-* '''Battery:''' Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network
-* '''Weight:''' 0.96 pounds (437 g) [[J127AP]] model; 0.98 pounds (444 g) [[J128AP]] model
-* '''Wireless:'''
-** '''2G:'''  ([[J128AP]] model)
-** '''3G:'''  ([[J128AP]] model)
-** '''LTE:''' ([[J128AP]] model)
-** '''Wi-Fi:''' (802.11a/b/g/n/ac); dual channel (2.4GHz and 5GHz); HT80 with MIMO
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera:''' 12 MP photos, 4K video recording @ 30 FPS and 1080p videos @ 30 FPS (iSight Camera)
-* '''Front camera:''' 5 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
-* '''SIM Card:''' Nano-SIM (supports Apple SIM)
-* '''Connector:''' [[Lightning Connector]]
+voice_assistant: Siri
+rear_camera: 12 MP photos, 4K video recording @ 30 FPS and 1080p videos @ 30 FPS (iSight Camera)
+front_camera: 5 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)
+sim_card: Nano-SIM (supports Apple SIM)
+connector: Lightning Connector
