@@ -1,13 +1,12 @@
-url:
-image:
-display:
-size:
-color:
-  -
 url: https://www.theiphonewiki.com/wiki/IPhone_SE
-* '''Display:''' 4.0" 1136x640 LED-backlit IPS display at 326 ppi
-* '''Size''': 4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)
-* '''Color''': Space Gray, Silver, Gold or Rose Gold
+image: https://www.theiphonewiki.com/w/images/5/57/IPhone_SE.png
+display: 4.0" 1136x640 LED-backlit IPS display at 326 ppi
+size: 4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)
+color:
+  - Space Gray
+  - Silver
+  - Gold
+  - Rose Gold
 * '''Battery''': Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 12 hours on 3G, up to 13 hours on LTE, up to 13 hours on Wi-Fi, Video playback: Up to 13 hours, Audio playback: Up to 50 hours
 * '''Weight''': 113 g (3.99 oz)
 * '''RAM:''' 2 GB
