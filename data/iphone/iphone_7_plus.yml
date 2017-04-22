@@ -9,20 +9,11 @@ color:
   - Black
   - Jet Black
   - (PRODUCT)RED
-battery:
-weight:
-ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-
-* '''Battery''': Talk time: Up to 21 hours on 3G, Standby time: Up to 16 days, Internet use: Up to 13 hours on 3G, up to 13 hours on LTE, up to 15 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 60 hours
-* '''Weight''': 188 g (6.63 oz)
-* '''RAM:''' 3 GB
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera''': 2 x 12 MP with Autofocus and manual focus (''Tap to focus''), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps
-* '''Front camera''': 7 MP photos and video, [[FaceTime]] Video Calls supported, 1080p video recording
-* '''SIM Card:''' Nano-SIM
-* '''Connector:''' [[Lightning Connector]]
+battery: "Talk time: Up to 21 hours on 3G, Standby time: Up to 16 days, Internet use: Up to 13 hours on 3G, up to 13 hours on LTE, up to 15 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 60 hours"
+weight: 188 g (6.63 oz)
+ram: 3 GB
+voice_assistant: Siri
+rear_camera: 2 x 12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps
+front_camera: 7 MP photos and video, FaceTime Video Calls supported, 1080p video recording
+sim_card: Nano-SIM
+connector: Lightning Connector

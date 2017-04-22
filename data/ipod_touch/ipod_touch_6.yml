@@ -9,17 +9,11 @@ color:
   - Pink
   - Blue
   - Red
-battery:
-weight:
+battery: 40 hours of audio, 8 hours of video
+weight: 3.10 ounces (88 grams)
 ram:
-voice_assistant:
+voice_assistant: Siri
 rear_camera:
-front_camera:
+front_camera: 1.2 MP photos and 720p videos
 sim_card:
-connector:
-
-*'''Weight:''' 3.10 ounces (88 grams)
-*'''Battery:''' 40 hours of audio, 8 hours of video
-*'''Voice Assistant:''' [[Siri]]
-*'''Front camera:''' 1.2 MP photos and 720p videos
-*'''Connector:''' [[Lightning Connector]]
+connector: Lightning Connector:

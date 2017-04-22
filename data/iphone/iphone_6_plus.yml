@@ -6,19 +6,11 @@ color:
   - Space Gray
   - Silver
   - Gold
-battery:
-weight:
-ram:
-voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-* '''Battery''': Talk time: Up to 24 hours on 3G, Standby time: Up to 284 hours, Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 80 hours
-* '''Weight''': 172 g (6.07 oz)
-* '''RAM:''' 1 GB
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera''': 8 MP with Autofocus and manual focus (''Tap to focus''), supporting HD 1080p video recording @ 30 - 60 FPS
-* '''Front camera''': 1.2 MP photos and video, [[FaceTime]] Video Calls supported
-* '''SIM Card:''' Nano-SIM
-* '''Connector:''' [[Lightning Connector]]
+battery: "Talk time: Up to 24 hours on 3G, Standby time: Up to 284 hours, Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 80 hours"
+weight: 172 g (6.07 oz)
+ram: 1 GB
+voice_assistant: Siri
+rear_camera: 8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 - 60 FPS
+front_camera: 1.2 MP photos and video, FaceTime Video Calls supported
+sim_card: Nano-SIM
+connector: Lightning Connector

@@ -5,18 +5,11 @@ size: 115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.3
 color:
   - Black
   - White
-battery:
-weight:
+battery: Standby up to 300 hours, talk time up to 7 hours on 3G and up to 14 hours on 2G
+weight: 135 g (4.8 oz)
 ram:
 voice_assistant:
-rear_camera:
-front_camera:
-sim_card:
-connector:
-
-* '''Battery''': Standby up to 300 hours, talk time up to 7 hours on 3G and up to 14 hours on 2G
-* '''Weight''': 135 g (4.8 oz)
-* '''Rear camera''': 5 MP with Autofocus and manual focus (''Tap to focus''), supporting HD video recording @ 30 FPS
-* '''Front camera''': VGA photos and 720p videos @ 30 FPS, [[FaceTime]] Video Calls supported
-* '''SIM Card:''' Micro-SIM
-* '''Connector:''' 30-pin
+rear_camera: 5 MP with Autofocus and manual focus (''Tap to focus''), supporting HD video recording @ 30 FPS
+front_camera: VGA photos and 720p videos @ 30 FPS, [[FaceTime]] Video Calls supported
+sim_card: Micro-SIM
+connector: 30-pin
