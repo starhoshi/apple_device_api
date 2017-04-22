@@ -9,6 +9,14 @@ color:
   - Black
   - Jet Black
   - (PRODUCT)RED
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 * '''Battery''': Talk time: Up to 21 hours on 3G, Standby time: Up to 16 days, Internet use: Up to 13 hours on 3G, up to 13 hours on LTE, up to 15 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 60 hours
 * '''Weight''': 188 g (6.63 oz)

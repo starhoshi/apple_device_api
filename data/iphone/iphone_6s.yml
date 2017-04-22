@@ -7,6 +7,14 @@ color:
   - Silver
   - Gold
   - Rose Gold
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 * '''Battery''': Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on Wi-Fi, Video playback: Up to 11 hours, Audio playback: Up to 50 hours
 * '''Weight''': 143 g (5.04 oz)

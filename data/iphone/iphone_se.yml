@@ -7,11 +7,20 @@ color:
   - Silver
   - Gold
   - Rose Gold
-* '''Battery''': Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 12 hours on 3G, up to 13 hours on LTE, up to 13 hours on Wi-Fi, Video playback: Up to 13 hours, Audio playback: Up to 50 hours
-* '''Weight''': 113 g (3.99 oz)
-* '''RAM:''' 2 GB
-* '''Voice Assistant:''' [[Siri]]
-* '''Rear camera''': 12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30-240fps.
-* '''Front camera''': 1.2 MP photos and video @ 30 FPS, [[FaceTime]] Video Calls supported
-* '''SIM Card:''' Nano-SIM
-* '''Connector:''' [[Lightning Connector]]
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
+
+  * '''Battery''': Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 12 hours on 3G, up to 13 hours on LTE, up to 13 hours on Wi-Fi, Video playback: Up to 13 hours, Audio playback: Up to 50 hours
+  * '''Weight''': 113 g (3.99 oz)
+  * '''RAM:''' 2 GB
+  * '''Voice Assistant:''' [[Siri]]
+  * '''Rear camera''': 12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30-240fps.
+  * '''Front camera''': 1.2 MP photos and video @ 30 FPS, [[FaceTime]] Video Calls supported
+  * '''SIM Card:''' Nano-SIM
+  * '''Connector:''' [[Lightning Connector]]

@@ -5,6 +5,14 @@ size: 110.0 mm (4.4 inches) (height), 58.9 mm (2.3 inches) (width), 7.2 mm (0.28
 color:
   - Black
   - White
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 *'''Battery:''' 40 hours of audio, 7 of video
 *'''Weight:''' 101 g (3.6 oz)

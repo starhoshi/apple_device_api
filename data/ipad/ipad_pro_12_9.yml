@@ -6,6 +6,14 @@ color:
   - Black & Space Gray
   - White & Silver
   - White & Gold
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 * '''Display:'''
 * '''Size:'''
 * '''Color:'''

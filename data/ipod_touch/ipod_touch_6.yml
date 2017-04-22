@@ -9,6 +9,14 @@ color:
   - Pink
   - Blue
   - Red
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 *'''Weight:''' 3.10 ounces (88 grams)
 *'''Battery:''' 40 hours of audio, 8 hours of video

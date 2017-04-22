@@ -5,6 +5,14 @@ size: 115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.3
 color:
   - Black
   - White
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 * '''Battery''': Talk time: Up to 8 hours on 3G, Standby time: Up to 200 hours, Internet use: Up to 6 hours on 3G, up to 9 hours on Wi-Fi, Video playback: Up to 10 hours, Audio playback: Up to 40 hours
 * '''Weight''': 140 g (4.9 oz)

@@ -4,4 +4,11 @@ display:
 size:
 color:
   -
-url:
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:

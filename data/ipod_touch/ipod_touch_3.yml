@@ -4,6 +4,14 @@ display:
 size: 110 mm (4.3 inches) (h), 61.8 mm (2.4 inches) (w), 8.5 mm (0.33 inches) (d)<br />
 color:
   -
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
 
 '''Weight''': 115 g (4.05 oz) <br />
 '''Battery''': 30 hours of audio, 6 of video
