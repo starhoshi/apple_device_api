@@ -13,3 +13,5 @@ rear_camera: 3.15 MP with Autofocus and manual focus (''Tap to focus''), support
 front_camera:
 sim_card:
 connector: 30-pin
+name:
+released_at:

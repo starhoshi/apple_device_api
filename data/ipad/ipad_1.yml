@@ -12,3 +12,5 @@ rear_camera:
 front_camera:
 sim_card: Micro-SIM (3G model)
 connector: 30-pin
+name:
+released_at:

@@ -17,3 +17,5 @@ rear_camera: 2 x 12 MP with Autofocus and manual focus (Tap to focus), supportin
 front_camera: 7 MP photos and video, FaceTime Video Calls supported, 1080p video recording
 sim_card: Nano-SIM
 connector: Lightning Connector
+name:
+released_at:

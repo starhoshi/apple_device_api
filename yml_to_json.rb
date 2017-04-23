@@ -20,3 +20,21 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   output_file.write(json)
   output_file.close
 end
+
+=begin
+
+{
+  "ipad": [
+      {
+        "image": "http...",
+        "released_at": "2017-..",
+        "name": "iPad",
+        "path": "api/v1/devices/ipad/ipad_1.json"
+      },
+      { ... }
+  ],
+  "iphone": [
+  ]
+}
+
+=end

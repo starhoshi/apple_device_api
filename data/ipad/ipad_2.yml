@@ -13,3 +13,5 @@ rear_camera: 0.7 MP photos and 720p videos @ 30 FPS
 front_camera: VGA photos and 480p videos @ 30 FPS, FaceTime supported
 sim_card: Micro-SIM (3G models)
 connector: 30-pin
+name:
+released_at:

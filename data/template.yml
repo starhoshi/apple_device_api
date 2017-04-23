@@ -16,15 +16,18 @@ connector:
 
 
 
-name: iPhone 7
+name:
+released_at:
 id:
   - iPhone9,1
   - iPhone9,2
-released_at: 2017-10-10
 processor:
 internal_name:
   - D10AP
   - D101AP
 model_no:
   - A1203
+os:
+  original: 9
+  maximam: 10
 

@@ -12,3 +12,5 @@ rear_camera:
 front_camera:
 sim_card:
 connector:
+name:
+released_at:

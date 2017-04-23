@@ -12,3 +12,5 @@ rear_camera:
 front_camera: 1.2 MP photos and 720p videos @ 30 FPS
 sim_card:
 connector: Lightning Connector
+name:
+released_at:

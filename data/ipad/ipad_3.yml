@@ -13,3 +13,5 @@ rear_camera: 5 MP photos and 1080p videos @ 30 FPS (iSight Camera)
 front_camera: VGA photos and videos @ 30 FPS, FaceTime supported
 sim_card: Micro-SIM (iPad3,2 and iPad3,3 models)
 connector: 30-pin
+name:
+released_at:
