@@ -2,8 +2,12 @@ require 'yaml'
 require 'json'
 require 'pathname'
 
-# devices = {}
-# devices = {}
+def write(filepath, data)
+  output_file = File.open(filepath, 'w+')
+  output_file.write(data)
+  output_file.close
+end
+
 devices = Hash.new { |h, k| h[k] = [] }
 Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   p "input yml filepath:     #{yml_filepath}"
@@ -20,9 +24,7 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   yml = File.read(yml_filepath)
   json = JSON.pretty_generate(YAML::load(yml))
 
-  output_file = File.open(output_filename, 'w+')
-  output_file.write(json)
-  output_file.close
+  write(output_filename, json)
 
   hash = YAML.load(File.read(yml_filepath))
   hash['path'] = output_filename
@@ -33,32 +35,4 @@ devices.each do |key, value|
   devices[key] = value.sort_by{|val| val['release_date']}.reverse
 end
 
-output_file = File.open('api/v1/devices.json', 'w+')
-output_file.write(JSON.pretty_generate(devices))
-output_file.close
-
-
-# hogeArray = devices.sort_by{|val| val['release_date']}.reverse
-#
-# hogeArray.each do |hogeHash|
-#   p "release_date:#{hogeHash['release_date']}"
-# end
-
-
-=begin
-
-{
-  "ipad": [
-      {
-        "image": "http...",
-        "released_at": "2017-..",
-        "name": "iPad",
-        "path": "api/v1/devices/ipad/ipad_1.json"
-      },
-      { ... }
-  ],
-  "iphone": [
-  ]
-}
-
-=end
+write('api/v1/devices.json', JSON.pretty_generate(devices))
