@@ -1,4 +1,4 @@
-# iPhone_API
+# apple_device_api
 
 You can get data of iPhone, iPad, iPod Touch.
 
