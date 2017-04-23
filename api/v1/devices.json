@@ -32,7 +32,7 @@
       "path": "api/v1/devices/ipad/ipad_air.json",
       "name": "iPad Air",
       "release_date": "2013-11-01",
-      "image": "https://www.theiphonewiki.com/wiki/File:IPad41.png",
+      "image": "https://www.theiphonewiki.com/w/images/4/42/IPad41.png",
       "url": "https://www.theiphonewiki.com/wiki/IPad_Air"
     },
     {
@@ -176,7 +176,7 @@
       "path": "api/v1/devices/iphone/iphone_4.json",
       "name": "iPhone 4",
       "release_date": "2010-04-24",
-      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png",
+      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3,1.png",
       "url": "https://www.theiphonewiki.com/wiki/N90AP"
     },
     {
