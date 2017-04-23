@@ -4,7 +4,7 @@ require 'pathname'
 
 # devices = {}
 # devices = {}
-devices = Hash.new { |h,k| h[k] = [] }
+devices = Hash.new { |h, k| h[k] = [] }
 Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   p "input yml filepath:     #{yml_filepath}"
 
@@ -26,15 +26,17 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
 
   hash = YAML.load(File.read(yml_filepath))
   hash['path'] = output_filename
-  p hash
   devices[Pathname.new(output_dir).split.last.to_s].push(hash)
-  # devices.push(YAML.load(File.read(yml_filepath)))
 end
 
-p devices
+devices.each do |key, value|
+  devices[key] = value.sort_by{|val| val['release_date']}.reverse
+end
+
 output_file = File.open('api/v1/devices.json', 'w+')
 output_file.write(JSON.pretty_generate(devices))
 output_file.close
+
 
 # hogeArray = devices.sort_by{|val| val['release_date']}.reverse
 #
