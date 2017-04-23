@@ -12,5 +12,5 @@ rear_camera:
 front_camera:
 sim_card:
 connector:
-name: iPhone Original
-release_date:
+name: iPhone 1st Generation
+release_date: 2007-06-29
