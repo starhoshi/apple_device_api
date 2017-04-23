@@ -12,12 +12,12 @@ rear_camera:
 front_camera:
 sim_card:
 connector:
-
-
-
-
 name:
 release_date:
+
+
+
+
 id:
   - iPhone9,1
   - iPhone9,2
@@ -30,4 +30,6 @@ model_no:
 os:
   original: 9
   maximam: 10
+apple_url:
+type: iphone or ipad or ipod_touch
 

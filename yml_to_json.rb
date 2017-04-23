@@ -1,7 +1,10 @@
 require 'yaml'
 require 'json'
+require 'pathname'
 
-devices = []
+# devices = {}
+# devices = {}
+devices = Hash.new { |h,k| h[k] = [] }
 Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   p "input yml filepath:     #{yml_filepath}"
 
@@ -21,16 +24,23 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   output_file.write(json)
   output_file.close
 
-  devices.push(YAML.load(File.read(yml_filepath)))
+  hash = YAML.load(File.read(yml_filepath))
+  hash['path'] = output_filename
+  p hash
+  devices[Pathname.new(output_dir).split.last.to_s].push(hash)
+  # devices.push(YAML.load(File.read(yml_filepath)))
 end
 
 p devices
+output_file = File.open('api/v1/devices.json', 'w+')
+output_file.write(JSON.pretty_generate(devices))
+output_file.close
 
-hogeArray = devices.sort_by{|val| val['release_date']}.reverse
-
-hogeArray.each do |hogeHash|
-  p "release_date:#{hogeHash['release_date']}"
-end
+# hogeArray = devices.sort_by{|val| val['release_date']}.reverse
+#
+# hogeArray.each do |hogeHash|
+#   p "release_date:#{hogeHash['release_date']}"
+# end
 
 
 =begin
