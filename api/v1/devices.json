@@ -22,7 +22,7 @@
       "path": "api/v1/devices/ipad/ipad_air_2.json",
       "name": "iPad Air 2",
       "release_date": "2014-10-22",
-      "image": null
+      "image": "https://www.theiphonewiki.com/w/images/3/38/IPad_Air_2.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_air.json",
