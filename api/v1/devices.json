@@ -4,7 +4,7 @@
       "path": "api/v1/devices/ipad/ipad_5.json",
       "name": "iPad 5th Generation",
       "release_date": "2017-03-24",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_%285th_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_(5th_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/IPad_(5th_generation)"
     },
     {
@@ -197,7 +197,7 @@
       "path": "api/v1/devices/iphone/iphone.json",
       "name": "iPhone 1st Generation",
       "release_date": "2007-06-29",
-      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1%2C1.png",
+      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1,1.png",
       "url": "https://www.theiphonewiki.com/wiki/M68AP"
     }
   ],
@@ -206,35 +206,35 @@
       "path": "api/v1/devices/ipod_touch/ipod_touch_6.json",
       "name": "iPod Touch 6th Generation",
       "release_date": "2015-07-15",
-      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_%286th_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_(6th_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/N102AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_5.json",
       "name": "iPod Touch 5th Generation",
       "release_date": "2012-10-11",
-      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_(5th_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/IPod_touch_(5th_generation)"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_4.json",
       "name": "iPod Touch 4th Generation",
       "release_date": "2010-09-01",
-      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_%284th_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_(4th_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/N81AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_3.json",
       "name": "iPod Touch 3rd Generation",
       "release_date": "2008-09-09",
-      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_%283rd_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_(3rd_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/N18AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_2.json",
       "name": "iPod Touch 2nd Generation",
       "release_date": "2008-09-09",
-      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_%282nd_generation%29.png",
+      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_(2nd_generation).png",
       "url": "https://www.theiphonewiki.com/wiki/N72AP"
     },
     {
