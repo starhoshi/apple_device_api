@@ -31,8 +31,18 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   devices[Pathname.new(output_dir).split.last.to_s].push(hash)
 end
 
+# sorted by release_date
 devices.each do |key, value|
   devices[key] = value.sort_by{|val| val['release_date']}.reverse
+end
+
+# use path, name, release_date
+devices.each do |key, value|
+  device = []
+  value.each do |item|
+    device.push({'path': item['path'], 'name': item['name'], 'release_date': item['release_date']})
+  end
+  devices[key] = device
 end
 
 write('api/v1/devices.json', JSON.pretty_generate(devices))

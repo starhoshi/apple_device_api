@@ -1,749 +1,180 @@
 {
   "ipad": [
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_(5th_generation)",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_%285th_generation%29.png",
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.4 inches (240 mm) (height) x 6.6 inches (169.5 mm) (width) x 0.29 inch (7.5 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network.",
-      "weight": "1.03 pounds (468 g) Wi-Fi model; 1.05 pounds (478 g) Cellular model",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP photos and 1080p video recording @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video @ 30 FPS (FaceTime HD Camera)",
-      "sim_card": "Nano-SIM (supports Apple SIM)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_5.json",
       "name": "iPad 5th Generation",
-      "release_date": "2017-03-24",
-      "path": "api/v1/devices/ipad/ipad_5.json"
+      "release_date": "2017-03-24"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_Pro_(12.9-inch)",
-      "image": "https://www.theiphonewiki.com/w/images/e/ef/IPad_Pro_Gold.png",
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.4 inches (240 mm) (height) x 6.6 inches (169.5 mm) (width) x 0.24 inch (6.1 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold",
-        "White & Rose Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.96 pounds (437 g) J127AP model; 0.98 pounds (444 g) J128AP model",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "12 MP photos, 4K video recording @ 30 FPS and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "5 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM (supports Apple SIM)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_pro_9_7.json",
       "name": "iPad Pro 9.7 inch",
-      "release_date": "2016-03-31",
-      "path": "api/v1/devices/ipad/ipad_pro_9_7.json"
+      "release_date": "2016-03-31"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_Pro_(9.7-inch)",
-      "image": "https://www.theiphonewiki.com/w/images/e/e7/IPad_Pro_%289.7-inch%29.png",
-      "display": "12.9\" 2732x2048 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "12 inches (305.7 mm) (height) x 8.68 inches (220.6 mm) (width) x 0.27 inch (6.9 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "1.57 pounds (713 g) J98aAP model; 1.59 pounds (723 g) J99aAP model",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM (supports Apple SIM)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_pro_12_9.json",
       "name": "iPad Pro 12.9 inch",
-      "release_date": "2015-11-11",
-      "path": "api/v1/devices/ipad/ipad_pro_12_9.json"
+      "release_date": "2015-11-11"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_Air_2",
-      "image": null,
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.4 inches (240 mm) (height) x 6.6 inches (169.5 mm) (width) x 0.24 inch (6.1 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.96 pounds (437 g) Wi-Fi model; 0.98 pounds (444 g) iPad5,4 model",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM (supports Apple SIM)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_air_2.json",
       "name": "iPad Air 2",
-      "release_date": "2014-10-22",
-      "path": "api/v1/devices/ipad/ipad_air_2.json"
+      "release_date": "2014-10-22"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_Air",
-      "image": "https://www.theiphonewiki.com/wiki/File:IPad41.png",
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.4 inches (240 mm) (height) x 6.6 inches (169.5 mm) (width) x 0.29 inch (7.5 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "1 pounds (469 g) iPad4,1 model; 1.05 pounds (478 g) LTE models",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "5 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video@ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM (iPad4,2 and iPad4,3 models)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_air.json",
       "name": "iPad Air",
-      "release_date": "2013-11-01",
-      "path": "api/v1/devices/ipad/ipad_air.json"
+      "release_date": "2013-11-01"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_(4th_generation)",
-      "image": "https://www.theiphonewiki.com/w/images/3/3e/IPad34.png",
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.5 inches (241.2 mm) (height) x 7.31 inches (185.7 mm) (width) x 0.37 inch (9.4 mm) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi-Fi, watching video, or listening to music",
-      "weight": "1.44 pounds (652 g) iPad3,4 model; 1.46 pounds (662 g) LTE models",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "5 MP photos and 1080p videos @ 30 FPS",
-      "front_camera": "1.2 MP photos and 720p video @ 30 FPS",
-      "sim_card": "Micro-SIM (iPad3,5 and iPad3,6)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad/ipad_4.json",
       "name": "iPad 4th Generation",
-      "release_date": "2012-11-02",
-      "path": "api/v1/devices/ipad/ipad_4.json"
+      "release_date": "2012-11-02"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_(3rd_generation)",
-      "image": "https://www.theiphonewiki.com/w/images/3/3b/IPad31.png",
-      "display": "9.7\" 2048x1536 LED-backlit IPS display at 264 ppi (Retina Display)",
-      "size": "9.5 inches (241.2 mm) (height) x 7.31 inches (185.7 mm) (width) x 0.37 inch (9.4 mm) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Up to 10 hours of Internet use",
-      "weight": "1.44 pounds (652 g) iPad3,1 model; 1.46 pounds (662 g) 4G models",
-      "ram": "1 GB",
-      "voice_assistant": "Siri (Requires iOS 6 or newer)",
-      "rear_camera": "5 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "VGA photos and videos @ 30 FPS, FaceTime supported",
-      "sim_card": "Micro-SIM (iPad3,2 and iPad3,3 models)",
-      "connector": "30-pin",
+      "path": "api/v1/devices/ipad/ipad_3.json",
       "name": "iPad 3rd Generation",
-      "release_date": "2012-03-16",
-      "path": "api/v1/devices/ipad/ipad_3.json"
+      "release_date": "2012-03-16"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_2",
-      "image": "https://www.theiphonewiki.com/w/images/1/1f/Ipad2.png",
-      "display": "9.7\" 1024x768 LED-backlit IPS display at 132 ppi",
-      "size": "9.5 inches (241.2 mm) (height) x 7.31 inches (185.7 mm) (width) x 0.34 inch (8.8 mm) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Up to 10 hours of Internet use, one month of standby",
-      "weight": "1.33 pounds (601 g) K93AP|iPad2,1; 1.35 pounds (613 g) K94AP|iPad2,2; 1.34 pounds (607 g) K95AP|iPad2,3",
-      "ram": "512 MB",
-      "voice_assistant": null,
-      "rear_camera": "0.7 MP photos and 720p videos @ 30 FPS",
-      "front_camera": "VGA photos and 480p videos @ 30 FPS, FaceTime supported",
-      "sim_card": "Micro-SIM (3G models)",
-      "connector": "30-pin",
+      "path": "api/v1/devices/ipad/ipad_2.json",
       "name": "iPad 2nd Generation",
-      "release_date": "2011-03-11",
-      "path": "api/v1/devices/ipad/ipad_2.json"
+      "release_date": "2011-03-11"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/K48AP",
-      "image": "https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg",
-      "display": "9.7\" 1024x768 LED-backlit IPS display at 132 ppi",
-      "size": "9.56 inches (242.8 mm) (height) x 7.47 inches (189.7 mm) (width) x 0.5 inch (13.4 mm) (depth)",
-      "color": [
-        "Black"
-      ],
-      "battery": "Up to 10 hours of Internet use, one month of standby",
-      "weight": "1.5 pounds (0.68 kg) Wi-Fi model; 1.6 pounds (0.73 kg) Wi-Fi + 3G model",
-      "ram": "256 MB",
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": "Micro-SIM (3G model)",
-      "connector": "30-pin",
+      "path": "api/v1/devices/ipad/ipad_1.json",
       "name": "iPad 1st Generation",
-      "release_date": "2010-04-03",
-      "path": "api/v1/devices/ipad/ipad_1.json"
+      "release_date": "2010-04-03"
     }
   ],
   "ipad_mini": [
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_4",
-      "image": "https://www.theiphonewiki.com/w/images/b/b6/IPad_mini_4_Black.png",
-      "display": "7.9\" 2048x1536 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "0.24 inch (6.1 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.66 pounds (299 g)",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP photos and 1080p videos (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video (FaceTime HD Camera)",
-      "sim_card": "Nano-SIM (supports Apple SIM)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad_mini/ipad_mini_4.json",
       "name": "iPad Mini 4",
-      "release_date": "2015-09-09",
-      "path": "api/v1/devices/ipad_mini/ipad_mini_4.json"
+      "release_date": "2015-09-09"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_3",
-      "image": "https://www.theiphonewiki.com/w/images/7/7d/IPad_mini_3G_Black.jpg",
-      "display": "7.9\" 2048x1536 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "7.87 inches (200 mm) (height) x 5.3 inches (134.7 mm) (width) x 0.29 inch (7.5 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver",
-        "White & Gold"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.73 pounds (331 g) iPad4,7; 0.75 pounds (341 g) iPad4,8 and iPad4,9 models",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": "5 MP photos and 1080p videos (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video (FaceTime HD Camera)",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad_mini/ipad_mini_3.json",
       "name": "iPad Mini 3",
-      "release_date": "2014-10-22",
-      "path": "api/v1/devices/ipad_mini/ipad_mini_3.json"
+      "release_date": "2014-10-22"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_2",
-      "image": "https://www.theiphonewiki.com/w/images/e/e2/IPad_mini_2G_Black.jpg",
-      "display": "7.9\" 2048x1536 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "7.87 inches (200 mm) (height) x 5.3 inches (134.7 mm) (width) x 0.29 inch (7.5 mm) (depth)",
-      "color": [
-        "Black & Space Gray",
-        "White & Silver"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.73 pounds (331 g) iPad4,4; 0.75 pounds (341 g) iPad4,5 only",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "5 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video @ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM (iPad4,5 and iPad4,6)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad_mini/ipad_mini_2.json",
       "name": "iPad Mini 2",
-      "release_date": "2013-11-12",
-      "path": "api/v1/devices/ipad_mini/ipad_mini_2.json"
+      "release_date": "2013-11-12"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPad_mini",
-      "image": "https://www.theiphonewiki.com/w/images/2/2b/IPad25.png",
-      "display": "7.9\" 1024x768 LED-backlit IPS display at 163 ppi",
-      "size": "7.87 inches (200 mm) (height) x 5.3 inches (134.7 mm) (width) x 0.28 inch (7.2 mm) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Up to 10 hours of surfing the web on Wi‑Fi, watching video, or listening to music, Up to 9 hours of surfing the web using cellular data network",
-      "weight": "0.68 pounds (308 g) iPad2,5; 0.69 pounds (312 g) iPad2,6 and iPad2,7",
-      "ram": "512 MB",
-      "voice_assistant": "Siri",
-      "rear_camera": "5 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video @ 30 FPS (FaceTime HD Camera)",
-      "sim_card": "Nano-SIM (iPad2,6 and iPad2,7)",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipad_mini/ipad_mini_1.json",
       "name": "iPad Mini 1st Generation",
-      "release_date": "2012-11-02",
-      "path": "api/v1/devices/ipad_mini/ipad_mini_1.json"
+      "release_date": "2012-11-02"
     }
   ],
   "iphone": [
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_7_Plus",
-      "image": "https://www.theiphonewiki.com/w/images/0/09/IPhone_7_Plus.png",
-      "display": "5.5\" 1920x1080 LED-backlit IPS display at 401 ppi",
-      "size": "6.23 inches (158.2 mm) (height) x 3.07 inches (77.9 mm) (width) x 0.29 inch. (7.3 mm) (depth)",
-      "color": [
-        "Rose Gold",
-        "Gold",
-        "Silver",
-        "Black",
-        "Jet Black",
-        "(PRODUCT)RED"
-      ],
-      "battery": "Talk time: Up to 21 hours on 3G, Standby time: Up to 16 days, Internet use: Up to 13 hours on 3G, up to 13 hours on LTE, up to 15 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 60 hours",
-      "weight": "188 g (6.63 oz)",
-      "ram": "3 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "2 x 12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps",
-      "front_camera": "7 MP photos and video, FaceTime Video Calls supported, 1080p video recording",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_7_plus.json",
       "name": "iPhone 7 Plus",
-      "release_date": "2016-09-16",
-      "path": "api/v1/devices/iphone/iphone_7_plus.json"
+      "release_date": "2016-09-16"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_7",
-      "image": "https://www.theiphonewiki.com/w/images/a/ab/IPhone_7.png",
-      "display": "4.7\" 1334x750 LED-backlit IPS display at 326 ppi",
-      "size": "5.44 inches (138.3 mm) (height) x 2.64 inches (67.1 mm) (width) x 0.28 inch. (7.1 mm) (depth)",
-      "color": [
-        "Rose Gold",
-        "Gold",
-        "Silver",
-        "Black",
-        "Jet Black",
-        "(PRODUCT)RED"
-      ],
-      "battery": "Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 14 hours on Wi-Fi, Video playback: Up to 13 hours, Audio playback: Up to 40 hours",
-      "weight": "138 g (4.87 oz)",
-      "ram": "2 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps",
-      "front_camera": "7 MP photos and video, FaceTime Video Calls supported, 1080p video recording",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_7.json",
       "name": "iPhone 7",
-      "release_date": "2016-09-16",
-      "path": "api/v1/devices/iphone/iphone_7.json"
+      "release_date": "2016-09-16"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_SE",
-      "image": "https://www.theiphonewiki.com/w/images/5/57/IPhone_SE.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi",
-      "size": "4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold",
-        "Rose Gold"
-      ],
-      "battery": "Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 12 hours on 3G, up to 13 hours on LTE, up to 13 hours on Wi-Fi, Video playback: Up to 13 hours, Audio playback: Up to 50 hours",
-      "weight": "113 g (3.99 oz)",
-      "ram": "2 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30-240fps.",
-      "front_camera": "1.2 MP photos and video @ 30 FPS, FaceTime Video Calls supported",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_se.json",
       "name": "iPhone SE",
-      "release_date": "2016-03-31",
-      "path": "api/v1/devices/iphone/iphone_se.json"
+      "release_date": "2016-03-31"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_6s",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone_6s_Rose.png",
-      "display": "4.7\" 1334x750 LED-backlit IPS display at 326 ppi",
-      "size": "5.44 inches (138.3 mm) (height) x 2.64 inches (67.1 mm) (width) x 0.28 inch. (7.1 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold",
-        "Rose Gold"
-      ],
-      "battery": "Talk time: Up to 14 hours on 3G, Standby time: Up to 10 days, Internet use: Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on Wi-Fi, Video playback: Up to 11 hours, Audio playback: Up to 50 hours",
-      "weight": "143 g (5.04 oz)",
-      "ram": "2 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps",
-      "front_camera": "5 MP photos and video, FaceTime Video Calls supported, 720p video recording",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_6s.json",
       "name": "iPhone 6s",
-      "release_date": "2015-09-25",
-      "path": "api/v1/devices/iphone/iphone_6s.json"
+      "release_date": "2015-09-25"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_6s_Plus",
-      "image": "https://www.theiphonewiki.com/w/images/f/ff/IPhone_6s_Plus_Rose.png",
-      "display": "5.5\" 1920x1080 LED-backlit IPS display at 401 ppi",
-      "size": "6.23 inches (158.2 mm) (height) x 3.07 inches (77.9 mm) (width) x 0.29 inch. (7.3 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold",
-        "Rose Gold"
-      ],
-      "battery": "Talk time: Up to 24 hours on 3G, Standby time: Up to 16 days, Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 80 hours",
-      "weight": "192 g (6.77 oz)",
-      "ram": "2 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "12 MP with Autofocus and manual focus (Tap to focus), supporting 4K 3840x2160p at 30fps, HD 1080p video recording @ 30 - 60 FPS, 720p at 30fps",
-      "front_camera": "5 MP photos and video, FaceTime Video Calls supported, 720p video recording",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_6s_plus.json",
       "name": "iPhone 6s Plus",
-      "release_date": "2015-09-25",
-      "path": "api/v1/devices/iphone/iphone_6s_plus.json"
+      "release_date": "2015-09-25"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N61AP",
-      "image": "https://www.theiphonewiki.com/w/images/9/93/IPhone_6_Grey.png",
-      "display": "4.7\" 1334x750 LED-backlit IPS display at 326 ppi",
-      "size": "5.44 inches (138.1 mm) (height) x 2.64 inches (67.0 mm) (width) x 0.27 inch. (6.9 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold"
-      ],
-      "battery": "Talk time: Up to 14 hours on 3G, Standby time: Up to 250 hours, Internet use: Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on Wi-Fi, Video playback: Up to 11 hours, Audio playback: Up to 50 hours",
-      "weight": "129 g (4.55 oz)",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 - 60 FPS",
-      "front_camera": "1.2 MP photos and video, FaceTime Video Calls supported",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_6.json",
       "name": "iPhone 6",
-      "release_date": "2014-09-19",
-      "path": "api/v1/devices/iphone/iphone_6.json"
+      "release_date": "2014-09-19"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N56AP",
-      "image": "https://www.theiphonewiki.com/w/images/d/d7/IPhone_6_Plus_Grey.png",
-      "display": "5.5\" 1920x1080 LED-backlit IPS display at 401 ppi",
-      "size": "6.22 inches (158.1 mm) (height) x 3.06 inches (77.8 mm) (width) x 0.28 inch. (7.1 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold"
-      ],
-      "battery": "Talk time: Up to 24 hours on 3G, Standby time: Up to 284 hours, Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi-Fi, Video playback: Up to 14 hours, Audio playback: Up to 80 hours",
-      "weight": "172 g (6.07 oz)",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 - 60 FPS",
-      "front_camera": "1.2 MP photos and video, FaceTime Video Calls supported",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_6_plus.json",
       "name": "iPhone 6 Plus",
-      "release_date": "2014-09-19",
-      "path": "api/v1/devices/iphone/iphone_6_plus.json"
+      "release_date": "2014-09-19"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_5c",
-      "image": "https://www.theiphonewiki.com/w/images/7/77/IPhone_5c_white.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi",
-      "size": "124.4 mm (4.90 in) (height), 59.2 mm (2.33 in) (width), 8.97 mm (0.35 in) (depth)",
-      "color": [
-        "Green",
-        "Yellow",
-        "Pink",
-        "Blue",
-        "White"
-      ],
-      "battery": "Talk time - Up to 10 hours on 3G, Standby time - Up to 250 hours, Internet use - Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours",
-      "weight": "132 g (4.65 oz)",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP with Autofocus and manual focus (''Tap to focus''), supporting HD 1080p video recording @ 30 FPS",
-      "front_camera": "1.2 MP photos and video @ 720p 30 FPS, [[FaceTime]] Video Calls supported.",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_5c.json",
       "name": "iPhone 5c",
-      "release_date": "2013-09-20",
-      "path": "api/v1/devices/iphone/iphone_5c.json"
+      "release_date": "2013-09-20"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_5s",
-      "image": "https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi",
-      "size": "4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Silver",
-        "Gold"
-      ],
-      "battery": "Talk time - Up to 10 hours on 3G, Standby time - Up to 250 hours, Internet use - Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours",
-      "weight": "112 g (3.95 oz)",
-      "ram": "1 GB",
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 FPS , Slow-Motion 720p @ 120 FPS",
-      "front_camera": "1.2 MP photos and video @ 30 FPS, FaceTime Video Calls supported",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_5s.json",
       "name": "iPhone 5s",
-      "release_date": "2013-09-20",
-      "path": "api/v1/devices/iphone/iphone_5s.json"
+      "release_date": "2013-09-20"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPhone_5",
-      "image": "https://www.theiphonewiki.com/w/images/f/fa/IPhone_5.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi",
-      "size": "123.8 mm (4.87 in) (height), 58.6 mm (2.31 in) (width), 7.6 mm (0.30 in) (depth)",
-      "color": [
-        "Black and Slate",
-        "White and Silver"
-      ],
-      "battery": "Talk time - Up to 10 hours on 3G, Standby time - Up to 250 hours, Internet use - Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours",
-      "weight": "112 g (3.95 oz)",
-      "ram": "1 GB LPDDR2-1066 MHz",
-      "voice_assistant": "Siri",
-      "rear_camera": "8 MP photos and 1080p videos @ 30 FPS (iSight Camera)",
-      "front_camera": "1.2 MP photos and 720p video @ 30 FPS ([[FaceTime]] HD Camera)",
-      "sim_card": "Nano-SIM",
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/iphone/iphone_5.json",
       "name": "iPhone 5",
-      "release_date": "2012-09-21",
-      "path": "api/v1/devices/iphone/iphone_5.json"
+      "release_date": "2012-09-21"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N94AP",
-      "image": "https://www.theiphonewiki.com/w/images/d/d2/IPhone4S.png",
-      "display": "3.5\" 960x640 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.37 inches) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Talk time - Up to 8 hours on 3G, Standby time - Up to 200 hours, Internet use - Up to 6 hours on 3G, up to 9 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours",
-      "weight": "140 g (4.9 oz)",
-      "ram": "512 MB",
-      "voice_assistant": "Siri",
-      "rear_camera": "8MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 FPS",
-      "front_camera": "VGA photos and 720p videos @ 30 FPS, FaceTime Video Calls supported",
-      "sim_card": "Micro-SIM",
-      "connector": "30-pin",
+      "path": "api/v1/devices/iphone/iphone_4s.json",
       "name": "iPhone 4s",
-      "release_date": "2011-10-14",
-      "path": "api/v1/devices/iphone/iphone_4s.json"
+      "release_date": "2011-10-14"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N90AP",
-      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png",
-      "display": "3.5\" 960x640 LED-backlit IPS display at 326 ppi",
-      "size": "115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.37 inches) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Standby up to 300 hours, talk time up to 7 hours on 3G and up to 14 hours on 2G",
-      "weight": "135 g (4.8 oz)",
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": "5 MP with Autofocus and manual focus (''Tap to focus''), supporting HD video recording @ 30 FPS",
-      "front_camera": "VGA photos and 720p videos @ 30 FPS, [[FaceTime]] Video Calls supported",
-      "sim_card": "Micro-SIM",
-      "connector": "30-pin",
+      "path": "api/v1/devices/iphone/iphone_4.json",
       "name": "iPhone 4",
-      "release_date": "2010-04-24",
-      "path": "api/v1/devices/iphone/iphone_4.json"
+      "release_date": "2010-04-24"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N88AP",
-      "image": "https://www.theiphonewiki.com/w/images/1/1b/IPhone3GS.png",
-      "display": null,
-      "size": "4.5 inches (115.5 mm) (height) × 2.4 inches (62.1 mm) (width) × 0.48 inch (12.3 mm) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "Up to 12 hours of 2G talk, 5 hours of 3G talk, 5 (3G) or 9 (Wi-Fi) hours of Internet use, 10 hours of video playback, and up to 30 hours of audio playback, lasting over 300 hours on standby",
-      "weight": "135 g (4.8 oz)",
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": "3.15 MP with Autofocus and manual focus (''Tap to focus''), supporting VGA video recording @ 30 FPS",
-      "front_camera": null,
-      "sim_card": null,
-      "connector": "30-pin",
+      "path": "api/v1/devices/iphone/iphone_3gs.json",
       "name": "iPhone 3GS",
-      "release_date": "2009-07-19",
-      "path": "api/v1/devices/iphone/iphone_3gs.json"
+      "release_date": "2009-07-19"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N82AP",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png",
-      "display": null,
-      "size": "4.5 inches (115.5 mm) (h) × 2.4 inches (62.1 mm) (w) × 0.48 inch (12.3 mm) (d)",
-      "color": [
-        "Black (8 GB or 16 GB)",
-        "white (16 GB)"
-      ],
-      "battery": "has up to 10 hours of 2G talk, 5 hours of 3G talk, 5 (3G) or 6 (Wi-Fi) hours of Internet use, 7 hours of video playback, and up to 24 hours of audio playback, lasting over 300 hours on standby.",
-      "weight": "133 g (4.7 oz)",
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": null,
-      "connector": null,
+      "path": "api/v1/devices/iphone/iphone_3g.json",
       "name": "iPhone 3G",
-      "release_date": "2008-07-11",
-      "path": "api/v1/devices/iphone/iphone_3g.json"
+      "release_date": "2008-07-11"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/M68AP",
-      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1%2C1.png",
-      "display": null,
-      "size": null,
-      "color": [
-        null
-      ],
-      "battery": null,
-      "weight": null,
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": null,
-      "connector": null,
+      "path": "api/v1/devices/iphone/iphone.json",
       "name": "iPhone 1st Generation",
-      "release_date": "2007-06-29",
-      "path": "api/v1/devices/iphone/iphone.json"
+      "release_date": "2007-06-29"
     }
   ],
   "ipod_touch": [
     {
-      "url": "https://www.theiphonewiki.com/wiki/N102AP",
-      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_%286th_generation%29.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "4.86 inches (123.4 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.24 inch (6.1 mm) (depth)",
-      "color": [
-        "Space Gray",
-        "Gold",
-        "Silver",
-        "Pink",
-        "Blue",
-        "Red"
-      ],
-      "battery": "40 hours of audio, 8 hours of video",
-      "weight": "3.10 ounces (88 grams)",
-      "ram": null,
-      "voice_assistant": "Siri",
-      "rear_camera": null,
-      "front_camera": "1.2 MP photos and 720p videos",
-      "sim_card": null,
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipod_touch/ipod_touch_6.json",
       "name": "iPod Touch 6th Generation",
-      "release_date": "2015-07-15",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_6.json"
+      "release_date": "2015-07-15"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/IPod_touch_(5th_generation)",
-      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png",
-      "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "4.86 inches (123.4 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.24 inch (6.1 mm) (depth)",
-      "color": [
-        null
-      ],
-      "battery": "40 hours of audio, 8 hours of video",
-      "weight": null,
-      "ram": "512 MB DRAM",
-      "voice_assistant": "Siri",
-      "rear_camera": null,
-      "front_camera": "1.2 MP photos and 720p videos @ 30 FPS",
-      "sim_card": null,
-      "connector": "Lightning Connector",
+      "path": "api/v1/devices/ipod_touch/ipod_touch_5.json",
       "name": "iPod Touch 5th Generation",
-      "release_date": "2012-10-11",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_5.json"
+      "release_date": "2012-10-11"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N81AP",
-      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_%284th_generation%29.png",
-      "display": "3.5\" 960x640 LED-backlit IPS display at 326 ppi (Retina Display)",
-      "size": "110.0 mm (4.4 inches) (height), 58.9 mm (2.3 inches) (width), 7.2 mm (0.28 inches) (depth)",
-      "color": [
-        "Black",
-        "White"
-      ],
-      "battery": "40 hours of audio, 7 of video",
-      "weight": "101 g (3.6 oz)",
-      "ram": "256 MB DRAM",
-      "voice_assistant": null,
-      "rear_camera": "0.7 MP photos and 720p videos",
-      "front_camera": "VGA photos and 720p videos @ 30 FPS, FaceTime supported",
-      "sim_card": null,
-      "connector": "30-pin",
+      "path": "api/v1/devices/ipod_touch/ipod_touch_4.json",
       "name": "iPod Touch 4th Generation",
-      "release_date": "2010-09-01",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_4.json"
+      "release_date": "2010-09-01"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N18AP",
-      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_%283rd_generation%29.png",
-      "display": null,
-      "size": "110 mm (4.3 inches) (h), 61.8 mm (2.4 inches) (w), 8.5 mm (0.33 inches) (d)<br />",
-      "color": [
-        null
-      ],
-      "battery": "30 hours of audio, 6 of video",
-      "weight": "115 g (4.05 oz)",
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": null,
-      "connector": null,
+      "path": "api/v1/devices/ipod_touch/ipod_touch_3.json",
       "name": "iPod Touch 3rd Generation",
-      "release_date": "2008-09-09",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_3.json"
+      "release_date": "2008-09-09"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N72AP",
-      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_%282nd_generation%29.png",
-      "display": null,
-      "size": null,
-      "color": [
-        null
-      ],
-      "battery": null,
-      "weight": null,
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": null,
-      "connector": null,
+      "path": "api/v1/devices/ipod_touch/ipod_touch_2.json",
       "name": "iPod Touch 2nd Generation",
-      "release_date": "2008-09-09",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_2.json"
+      "release_date": "2008-09-09"
     },
     {
-      "url": "https://www.theiphonewiki.com/wiki/N45AP",
-      "image": "https://www.theiphonewiki.com/w/images/3/35/IPod_touch.png",
-      "display": null,
-      "size": null,
-      "color": [
-        null
-      ],
-      "battery": null,
-      "weight": null,
-      "ram": null,
-      "voice_assistant": null,
-      "rear_camera": null,
-      "front_camera": null,
-      "sim_card": null,
-      "connector": null,
+      "path": "api/v1/devices/ipod_touch/ipod_touch_1.json",
       "name": "iPod Touch 1st Generation",
-      "release_date": "2007-09-05",
-      "path": "api/v1/devices/ipod_touch/ipod_touch_1.json"
+      "release_date": "2007-09-05"
     }
   ]
 }
