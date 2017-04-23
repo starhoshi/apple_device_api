@@ -1,15 +1,15 @@
 require 'yaml'
 require 'json'
-require 'rake'
-
 
 Dir.glob('data/**/{[!template]}*.yml').each do | yml_filepath |
-  p yml_filepath
-  p output_filename = yml_filepath
+  p "input yml flepath:   #{yml_filepath}"
+
+  output_filename = yml_filepath
                         .sub(/(yml|yaml)$/, 'json')
                         .sub(/data/, 'api/v1/devices')
+  p "output json flepath: #{output_filename}"
 
-  p output_dir = output_filename.sub(File.basename(output_filename), '')
+   output_dir = output_filename.sub(File.basename(output_filename), '')
 
   FileUtils.mkdir_p(output_dir) unless FileTest.exist?(output_dir)
 
