@@ -22,14 +22,14 @@ id:
   - iPhone9,1
   - iPhone9,2
 processor:
+os:
+  minimum: 9
+  maximam: 10
+type: iPhone or iPad or iPod Touch
 internal_name:
   - D10AP
   - D101AP
 model_no:
   - A1203
-os:
-  original: 9
-  maximam: 10
 apple_url:
-type: iphone or ipad or ipod_touch
 
