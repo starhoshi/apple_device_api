@@ -17,7 +17,7 @@ connector:
 
 
 name:
-released_at:
+release_date:
 id:
   - iPhone9,1
   - iPhone9,2
