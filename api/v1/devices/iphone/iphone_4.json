@@ -1,1 +1,20 @@
-{"url":"https://www.theiphonewiki.com/wiki/N90AP","image":"https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png","display":"3.5\" 960x640 LED-backlit IPS display at 326 ppi","size":"115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.37 inches) (depth)","color":["Black","White"],"battery":"Standby up to 300 hours, talk time up to 7 hours on 3G and up to 14 hours on 2G","weight":"135 g (4.8 oz)","ram":null,"voice_assistant":null,"rear_camera":"5 MP with Autofocus and manual focus (''Tap to focus''), supporting HD video recording @ 30 FPS","front_camera":"VGA photos and 720p videos @ 30 FPS, [[FaceTime]] Video Calls supported","sim_card":"Micro-SIM","connector":"30-pin"}
+{
+  "url": "https://www.theiphonewiki.com/wiki/N90AP",
+  "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png",
+  "display": "3.5\" 960x640 LED-backlit IPS display at 326 ppi",
+  "size": "115.2 mm (4.5 inches) (height), 58.6 mm (2.31 inches) (width), 9.3 mm (0.37 inches) (depth)",
+  "color": [
+    "Black",
+    "White"
+  ],
+  "battery": "Standby up to 300 hours, talk time up to 7 hours on 3G and up to 14 hours on 2G",
+  "weight": "135 g (4.8 oz)",
+  "ram": null,
+  "voice_assistant": null,
+  "rear_camera": "5 MP with Autofocus and manual focus (''Tap to focus''), supporting HD video recording @ 30 FPS",
+  "front_camera": "VGA photos and 720p videos @ 30 FPS, [[FaceTime]] Video Calls supported",
+  "sim_card": "Micro-SIM",
+  "connector": "30-pin",
+  "name": null,
+  "release_date": null
+}

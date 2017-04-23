@@ -1,1 +1,19 @@
-{"url":"https://www.theiphonewiki.com/wiki/IPod_touch_(5th_generation)","image":"https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png","display":"4.0\" 1136x640 LED-backlit IPS display at 326 ppi (Retina Display)","size":"4.86 inches (123.4 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.24 inch (6.1 mm) (depth)","color":[null],"battery":"40 hours of audio, 8 hours of video","weight":null,"ram":"512 MB DRAM","voice_assistant":"Siri","rear_camera":null,"front_camera":"1.2 MP photos and 720p videos @ 30 FPS","sim_card":null,"connector":"Lightning Connector"}
+{
+  "url": "https://www.theiphonewiki.com/wiki/IPod_touch_(5th_generation)",
+  "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png",
+  "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi (Retina Display)",
+  "size": "4.86 inches (123.4 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.24 inch (6.1 mm) (depth)",
+  "color": [
+    null
+  ],
+  "battery": "40 hours of audio, 8 hours of video",
+  "weight": null,
+  "ram": "512 MB DRAM",
+  "voice_assistant": "Siri",
+  "rear_camera": null,
+  "front_camera": "1.2 MP photos and 720p videos @ 30 FPS",
+  "sim_card": null,
+  "connector": "Lightning Connector",
+  "name": null,
+  "release_date": null
+}

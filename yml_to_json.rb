@@ -14,7 +14,7 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   FileUtils.mkdir_p(output_dir) unless FileTest.exist?(output_dir)
 
   yml = File.open(yml_filepath, 'r').read
-  json = JSON.dump(YAML::load(yml))
+  json = JSON.pretty_generate(YAML::load(yml))
 
   output_file = File.open(output_filename, 'w+')
   output_file.write(json)

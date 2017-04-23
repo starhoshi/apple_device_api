@@ -1,1 +1,19 @@
-{"url":"https://www.theiphonewiki.com/wiki/K48AP","image":"https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg","display":"9.7\" 1024x768 LED-backlit IPS display at 132 ppi","size":"9.56 inches (242.8 mm) (height) x 7.47 inches (189.7 mm) (width) x 0.5 inch (13.4 mm) (depth)","color":["Black"],"battery":"Up to 10 hours of Internet use, one month of standby","weight":"1.5 pounds (0.68 kg) Wi-Fi model; 1.6 pounds (0.73 kg) Wi-Fi + 3G model","ram":"256 MB","voice_assistant":null,"rear_camera":null,"front_camera":null,"sim_card":"Micro-SIM (3G model)","connector":"30-pin"}
+{
+  "url": "https://www.theiphonewiki.com/wiki/K48AP",
+  "image": "https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg",
+  "display": "9.7\" 1024x768 LED-backlit IPS display at 132 ppi",
+  "size": "9.56 inches (242.8 mm) (height) x 7.47 inches (189.7 mm) (width) x 0.5 inch (13.4 mm) (depth)",
+  "color": [
+    "Black"
+  ],
+  "battery": "Up to 10 hours of Internet use, one month of standby",
+  "weight": "1.5 pounds (0.68 kg) Wi-Fi model; 1.6 pounds (0.73 kg) Wi-Fi + 3G model",
+  "ram": "256 MB",
+  "voice_assistant": null,
+  "rear_camera": null,
+  "front_camera": null,
+  "sim_card": "Micro-SIM (3G model)",
+  "connector": "30-pin",
+  "name": null,
+  "release_date": null
+}

@@ -1,1 +1,21 @@
-{"url":"https://www.theiphonewiki.com/wiki/IPhone_5s","image":"https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png","display":"4.0\" 1136x640 LED-backlit IPS display at 326 ppi","size":"4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)","color":["Space Gray","Silver","Gold"],"battery":"Talk time - Up to 10 hours on 3G, Standby time - Up to 250 hours, Internet use - Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours","weight":"112 g (3.95 oz)","ram":"1 GB","voice_assistant":"Siri","rear_camera":"8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 FPS , Slow-Motion 720p @ 120 FPS","front_camera":"1.2 MP photos and video @ 30 FPS, FaceTime Video Calls supported","sim_card":"Nano-SIM","connector":"Lightning Connector"}
+{
+  "url": "https://www.theiphonewiki.com/wiki/IPhone_5s",
+  "image": "https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png",
+  "display": "4.0\" 1136x640 LED-backlit IPS display at 326 ppi",
+  "size": "4.87 inches (123.8 mm) (height) x 2.31 inches (58.6 mm) (width) x 0.3 inch. (7.6 mm) (depth)",
+  "color": [
+    "Space Gray",
+    "Silver",
+    "Gold"
+  ],
+  "battery": "Talk time - Up to 10 hours on 3G, Standby time - Up to 250 hours, Internet use - Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi, Video playback - Up to 10 hours, Audio playback - Up to 40 hours",
+  "weight": "112 g (3.95 oz)",
+  "ram": "1 GB",
+  "voice_assistant": "Siri",
+  "rear_camera": "8 MP with Autofocus and manual focus (Tap to focus), supporting HD 1080p video recording @ 30 FPS , Slow-Motion 720p @ 120 FPS",
+  "front_camera": "1.2 MP photos and video @ 30 FPS, FaceTime Video Calls supported",
+  "sim_card": "Nano-SIM",
+  "connector": "Lightning Connector",
+  "name": null,
+  "release_date": null
+}

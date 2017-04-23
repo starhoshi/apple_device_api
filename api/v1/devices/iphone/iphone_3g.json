@@ -1,1 +1,20 @@
-{"url":"https://www.theiphonewiki.com/wiki/N82AP","image":"https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png","display":null,"size":"4.5 inches (115.5 mm) (h) × 2.4 inches (62.1 mm) (w) × 0.48 inch (12.3 mm) (d)","color":["Black (8 GB or 16 GB)","white (16 GB)"],"battery":"has up to 10 hours of 2G talk, 5 hours of 3G talk, 5 (3G) or 6 (Wi-Fi) hours of Internet use, 7 hours of video playback, and up to 24 hours of audio playback, lasting over 300 hours on standby.","weight":"133 g (4.7 oz)","ram":null,"voice_assistant":null,"rear_camera":null,"front_camera":null,"sim_card":null,"connector":null}
+{
+  "url": "https://www.theiphonewiki.com/wiki/N82AP",
+  "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png",
+  "display": null,
+  "size": "4.5 inches (115.5 mm) (h) × 2.4 inches (62.1 mm) (w) × 0.48 inch (12.3 mm) (d)",
+  "color": [
+    "Black (8 GB or 16 GB)",
+    "white (16 GB)"
+  ],
+  "battery": "has up to 10 hours of 2G talk, 5 hours of 3G talk, 5 (3G) or 6 (Wi-Fi) hours of Internet use, 7 hours of video playback, and up to 24 hours of audio playback, lasting over 300 hours on standby.",
+  "weight": "133 g (4.7 oz)",
+  "ram": null,
+  "voice_assistant": null,
+  "rear_camera": null,
+  "front_camera": null,
+  "sim_card": null,
+  "connector": null,
+  "name": null,
+  "release_date": null
+}
