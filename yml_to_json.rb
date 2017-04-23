@@ -1,5 +1,6 @@
 require 'yaml'
 require 'json'
+require 'rake'
 require 'pathname'
 
 def write(filepath, data)
@@ -26,9 +27,11 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
 
   write(output_filename, json)
 
-  hash = YAML.load(File.read(yml_filepath))
-  hash['path'] = output_filename
-  devices[Pathname.new(output_dir).split.last.to_s].push(hash)
+  unless output_filename =~ /simulator/
+    hash = YAML.load(File.read(yml_filepath))
+    hash['path'] = output_filename
+    devices[Pathname.new(output_dir).split.last.to_s].push(hash)
+  end
 end
 
 # sorted by release_date

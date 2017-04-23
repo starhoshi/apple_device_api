@@ -1,0 +1,16 @@
+url: https://www.apple.com/iphone/
+image: https://www.theiphonewiki.com/w/images/0/09/Xcode.png
+display:
+size:
+color:
+  -
+battery:
+weight:
+ram:
+voice_assistant:
+rear_camera:
+front_camera:
+sim_card:
+connector:
+name: Simulator
+release_date: 2000-01-01

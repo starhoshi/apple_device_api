@@ -1,0 +1,19 @@
+{
+  "url": "https://www.apple.com/iphone/",
+  "image": "https://www.theiphonewiki.com/w/images/0/09/Xcode.png",
+  "display": null,
+  "size": null,
+  "color": [
+    null
+  ],
+  "battery": null,
+  "weight": null,
+  "ram": null,
+  "voice_assistant": null,
+  "rear_camera": null,
+  "front_camera": null,
+  "sim_card": null,
+  "connector": null,
+  "name": "Simulator",
+  "release_date": "2000-01-01"
+}
