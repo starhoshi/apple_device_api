@@ -36,11 +36,11 @@ devices.each do |key, value|
   devices[key] = value.sort_by{|val| val['release_date']}.reverse
 end
 
-# use path, name, release_date
+# use path, name, release_date, image
 devices.each do |key, value|
   device = []
   value.each do |item|
-    device.push({'path': item['path'], 'name': item['name'], 'release_date': item['release_date']})
+    device.push({'path': item['path'], 'name': item['name'], 'release_date': item['release_date'], 'image': item['image']})
   end
   devices[key] = device
 end

@@ -3,178 +3,212 @@
     {
       "path": "api/v1/devices/ipad/ipad_5.json",
       "name": "iPad 5th Generation",
-      "release_date": "2017-03-24"
+      "release_date": "2017-03-24",
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_%285th_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_pro_9_7.json",
       "name": "iPad Pro 9.7 inch",
-      "release_date": "2016-03-31"
+      "release_date": "2016-03-31",
+      "image": "https://www.theiphonewiki.com/w/images/e/ef/IPad_Pro_Gold.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_pro_12_9.json",
       "name": "iPad Pro 12.9 inch",
-      "release_date": "2015-11-11"
+      "release_date": "2015-11-11",
+      "image": "https://www.theiphonewiki.com/w/images/e/e7/IPad_Pro_%289.7-inch%29.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_air_2.json",
       "name": "iPad Air 2",
-      "release_date": "2014-10-22"
+      "release_date": "2014-10-22",
+      "image": null
     },
     {
       "path": "api/v1/devices/ipad/ipad_air.json",
       "name": "iPad Air",
-      "release_date": "2013-11-01"
+      "release_date": "2013-11-01",
+      "image": "https://www.theiphonewiki.com/wiki/File:IPad41.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_4.json",
       "name": "iPad 4th Generation",
-      "release_date": "2012-11-02"
+      "release_date": "2012-11-02",
+      "image": "https://www.theiphonewiki.com/w/images/3/3e/IPad34.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_3.json",
       "name": "iPad 3rd Generation",
-      "release_date": "2012-03-16"
+      "release_date": "2012-03-16",
+      "image": "https://www.theiphonewiki.com/w/images/3/3b/IPad31.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_2.json",
       "name": "iPad 2nd Generation",
-      "release_date": "2011-03-11"
+      "release_date": "2011-03-11",
+      "image": "https://www.theiphonewiki.com/w/images/1/1f/Ipad2.png"
     },
     {
       "path": "api/v1/devices/ipad/ipad_1.json",
       "name": "iPad 1st Generation",
-      "release_date": "2010-04-03"
+      "release_date": "2010-04-03",
+      "image": "https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg"
     }
   ],
   "ipad_mini": [
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_4.json",
       "name": "iPad Mini 4",
-      "release_date": "2015-09-09"
+      "release_date": "2015-09-09",
+      "image": "https://www.theiphonewiki.com/w/images/b/b6/IPad_mini_4_Black.png"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_3.json",
       "name": "iPad Mini 3",
-      "release_date": "2014-10-22"
+      "release_date": "2014-10-22",
+      "image": "https://www.theiphonewiki.com/w/images/7/7d/IPad_mini_3G_Black.jpg"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_2.json",
       "name": "iPad Mini 2",
-      "release_date": "2013-11-12"
+      "release_date": "2013-11-12",
+      "image": "https://www.theiphonewiki.com/w/images/e/e2/IPad_mini_2G_Black.jpg"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_1.json",
       "name": "iPad Mini 1st Generation",
-      "release_date": "2012-11-02"
+      "release_date": "2012-11-02",
+      "image": "https://www.theiphonewiki.com/w/images/2/2b/IPad25.png"
     }
   ],
   "iphone": [
     {
       "path": "api/v1/devices/iphone/iphone_7_plus.json",
       "name": "iPhone 7 Plus",
-      "release_date": "2016-09-16"
+      "release_date": "2016-09-16",
+      "image": "https://www.theiphonewiki.com/w/images/0/09/IPhone_7_Plus.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_7.json",
       "name": "iPhone 7",
-      "release_date": "2016-09-16"
+      "release_date": "2016-09-16",
+      "image": "https://www.theiphonewiki.com/w/images/a/ab/IPhone_7.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_se.json",
       "name": "iPhone SE",
-      "release_date": "2016-03-31"
+      "release_date": "2016-03-31",
+      "image": "https://www.theiphonewiki.com/w/images/5/57/IPhone_SE.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6s.json",
       "name": "iPhone 6s",
-      "release_date": "2015-09-25"
+      "release_date": "2015-09-25",
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone_6s_Rose.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6s_plus.json",
       "name": "iPhone 6s Plus",
-      "release_date": "2015-09-25"
+      "release_date": "2015-09-25",
+      "image": "https://www.theiphonewiki.com/w/images/f/ff/IPhone_6s_Plus_Rose.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6.json",
       "name": "iPhone 6",
-      "release_date": "2014-09-19"
+      "release_date": "2014-09-19",
+      "image": "https://www.theiphonewiki.com/w/images/9/93/IPhone_6_Grey.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6_plus.json",
       "name": "iPhone 6 Plus",
-      "release_date": "2014-09-19"
+      "release_date": "2014-09-19",
+      "image": "https://www.theiphonewiki.com/w/images/d/d7/IPhone_6_Plus_Grey.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5c.json",
       "name": "iPhone 5c",
-      "release_date": "2013-09-20"
+      "release_date": "2013-09-20",
+      "image": "https://www.theiphonewiki.com/w/images/7/77/IPhone_5c_white.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5s.json",
       "name": "iPhone 5s",
-      "release_date": "2013-09-20"
+      "release_date": "2013-09-20",
+      "image": "https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5.json",
       "name": "iPhone 5",
-      "release_date": "2012-09-21"
+      "release_date": "2012-09-21",
+      "image": "https://www.theiphonewiki.com/w/images/f/fa/IPhone_5.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_4s.json",
       "name": "iPhone 4s",
-      "release_date": "2011-10-14"
+      "release_date": "2011-10-14",
+      "image": "https://www.theiphonewiki.com/w/images/d/d2/IPhone4S.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_4.json",
       "name": "iPhone 4",
-      "release_date": "2010-04-24"
+      "release_date": "2010-04-24",
+      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_3gs.json",
       "name": "iPhone 3GS",
-      "release_date": "2009-07-19"
+      "release_date": "2009-07-19",
+      "image": "https://www.theiphonewiki.com/w/images/1/1b/IPhone3GS.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone_3g.json",
       "name": "iPhone 3G",
-      "release_date": "2008-07-11"
+      "release_date": "2008-07-11",
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png"
     },
     {
       "path": "api/v1/devices/iphone/iphone.json",
       "name": "iPhone 1st Generation",
-      "release_date": "2007-06-29"
+      "release_date": "2007-06-29",
+      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1%2C1.png"
     }
   ],
   "ipod_touch": [
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_6.json",
       "name": "iPod Touch 6th Generation",
-      "release_date": "2015-07-15"
+      "release_date": "2015-07-15",
+      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_%286th_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_5.json",
       "name": "iPod Touch 5th Generation",
-      "release_date": "2012-10-11"
+      "release_date": "2012-10-11",
+      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_4.json",
       "name": "iPod Touch 4th Generation",
-      "release_date": "2010-09-01"
+      "release_date": "2010-09-01",
+      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_%284th_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_3.json",
       "name": "iPod Touch 3rd Generation",
-      "release_date": "2008-09-09"
+      "release_date": "2008-09-09",
+      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_%283rd_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_2.json",
       "name": "iPod Touch 2nd Generation",
-      "release_date": "2008-09-09"
+      "release_date": "2008-09-09",
+      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_%282nd_generation%29.png"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_1.json",
       "name": "iPod Touch 1st Generation",
-      "release_date": "2007-09-05"
+      "release_date": "2007-09-05",
+      "image": "https://www.theiphonewiki.com/w/images/3/35/IPod_touch.png"
     }
   ]
 }
