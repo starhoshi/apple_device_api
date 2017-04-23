@@ -4,55 +4,64 @@
       "path": "api/v1/devices/ipad/ipad_5.json",
       "name": "iPad 5th Generation",
       "release_date": "2017-03-24",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_%285th_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPad_%285th_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_(5th_generation)"
     },
     {
       "path": "api/v1/devices/ipad/ipad_pro_9_7.json",
       "name": "iPad Pro 9.7 inch",
       "release_date": "2016-03-31",
-      "image": "https://www.theiphonewiki.com/w/images/e/ef/IPad_Pro_Gold.png"
+      "image": "https://www.theiphonewiki.com/w/images/e/ef/IPad_Pro_Gold.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_Pro_(12.9-inch)"
     },
     {
       "path": "api/v1/devices/ipad/ipad_pro_12_9.json",
       "name": "iPad Pro 12.9 inch",
       "release_date": "2015-11-11",
-      "image": "https://www.theiphonewiki.com/w/images/e/e7/IPad_Pro_%289.7-inch%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/e/e7/IPad_Pro_%289.7-inch%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_Pro_(9.7-inch)"
     },
     {
       "path": "api/v1/devices/ipad/ipad_air_2.json",
       "name": "iPad Air 2",
       "release_date": "2014-10-22",
-      "image": "https://www.theiphonewiki.com/w/images/3/38/IPad_Air_2.png"
+      "image": "https://www.theiphonewiki.com/w/images/3/38/IPad_Air_2.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_Air_2"
     },
     {
       "path": "api/v1/devices/ipad/ipad_air.json",
       "name": "iPad Air",
       "release_date": "2013-11-01",
-      "image": "https://www.theiphonewiki.com/wiki/File:IPad41.png"
+      "image": "https://www.theiphonewiki.com/wiki/File:IPad41.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_Air"
     },
     {
       "path": "api/v1/devices/ipad/ipad_4.json",
       "name": "iPad 4th Generation",
       "release_date": "2012-11-02",
-      "image": "https://www.theiphonewiki.com/w/images/3/3e/IPad34.png"
+      "image": "https://www.theiphonewiki.com/w/images/3/3e/IPad34.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_(4th_generation)"
     },
     {
       "path": "api/v1/devices/ipad/ipad_3.json",
       "name": "iPad 3rd Generation",
       "release_date": "2012-03-16",
-      "image": "https://www.theiphonewiki.com/w/images/3/3b/IPad31.png"
+      "image": "https://www.theiphonewiki.com/w/images/3/3b/IPad31.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_(3rd_generation)"
     },
     {
       "path": "api/v1/devices/ipad/ipad_2.json",
       "name": "iPad 2nd Generation",
       "release_date": "2011-03-11",
-      "image": "https://www.theiphonewiki.com/w/images/1/1f/Ipad2.png"
+      "image": "https://www.theiphonewiki.com/w/images/1/1f/Ipad2.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_2"
     },
     {
       "path": "api/v1/devices/ipad/ipad_1.json",
       "name": "iPad 1st Generation",
       "release_date": "2010-04-03",
-      "image": "https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg"
+      "image": "https://www.theiphonewiki.com/w/images/9/97/Ipad_hero_20100127.jpg",
+      "url": "https://www.theiphonewiki.com/wiki/K48AP"
     }
   ],
   "ipad_mini": [
@@ -60,25 +69,29 @@
       "path": "api/v1/devices/ipad_mini/ipad_mini_4.json",
       "name": "iPad Mini 4",
       "release_date": "2015-09-09",
-      "image": "https://www.theiphonewiki.com/w/images/b/b6/IPad_mini_4_Black.png"
+      "image": "https://www.theiphonewiki.com/w/images/b/b6/IPad_mini_4_Black.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_4"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_3.json",
       "name": "iPad Mini 3",
       "release_date": "2014-10-22",
-      "image": "https://www.theiphonewiki.com/w/images/7/7d/IPad_mini_3G_Black.jpg"
+      "image": "https://www.theiphonewiki.com/w/images/7/7d/IPad_mini_3G_Black.jpg",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_3"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_2.json",
       "name": "iPad Mini 2",
       "release_date": "2013-11-12",
-      "image": "https://www.theiphonewiki.com/w/images/e/e2/IPad_mini_2G_Black.jpg"
+      "image": "https://www.theiphonewiki.com/w/images/e/e2/IPad_mini_2G_Black.jpg",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_mini_2"
     },
     {
       "path": "api/v1/devices/ipad_mini/ipad_mini_1.json",
       "name": "iPad Mini 1st Generation",
       "release_date": "2012-11-02",
-      "image": "https://www.theiphonewiki.com/w/images/2/2b/IPad25.png"
+      "image": "https://www.theiphonewiki.com/w/images/2/2b/IPad25.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPad_mini"
     }
   ],
   "iphone": [
@@ -86,91 +99,106 @@
       "path": "api/v1/devices/iphone/iphone_7_plus.json",
       "name": "iPhone 7 Plus",
       "release_date": "2016-09-16",
-      "image": "https://www.theiphonewiki.com/w/images/0/09/IPhone_7_Plus.png"
+      "image": "https://www.theiphonewiki.com/w/images/0/09/IPhone_7_Plus.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_7_Plus"
     },
     {
       "path": "api/v1/devices/iphone/iphone_7.json",
       "name": "iPhone 7",
       "release_date": "2016-09-16",
-      "image": "https://www.theiphonewiki.com/w/images/a/ab/IPhone_7.png"
+      "image": "https://www.theiphonewiki.com/w/images/a/ab/IPhone_7.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_7"
     },
     {
       "path": "api/v1/devices/iphone/iphone_se.json",
       "name": "iPhone SE",
       "release_date": "2016-03-31",
-      "image": "https://www.theiphonewiki.com/w/images/5/57/IPhone_SE.png"
+      "image": "https://www.theiphonewiki.com/w/images/5/57/IPhone_SE.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_SE"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6s.json",
       "name": "iPhone 6s",
       "release_date": "2015-09-25",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone_6s_Rose.png"
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone_6s_Rose.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_6s"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6s_plus.json",
       "name": "iPhone 6s Plus",
       "release_date": "2015-09-25",
-      "image": "https://www.theiphonewiki.com/w/images/f/ff/IPhone_6s_Plus_Rose.png"
+      "image": "https://www.theiphonewiki.com/w/images/f/ff/IPhone_6s_Plus_Rose.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_6s_Plus"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6.json",
       "name": "iPhone 6",
       "release_date": "2014-09-19",
-      "image": "https://www.theiphonewiki.com/w/images/9/93/IPhone_6_Grey.png"
+      "image": "https://www.theiphonewiki.com/w/images/9/93/IPhone_6_Grey.png",
+      "url": "https://www.theiphonewiki.com/wiki/N61AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone_6_plus.json",
       "name": "iPhone 6 Plus",
       "release_date": "2014-09-19",
-      "image": "https://www.theiphonewiki.com/w/images/d/d7/IPhone_6_Plus_Grey.png"
+      "image": "https://www.theiphonewiki.com/w/images/d/d7/IPhone_6_Plus_Grey.png",
+      "url": "https://www.theiphonewiki.com/wiki/N56AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5c.json",
       "name": "iPhone 5c",
       "release_date": "2013-09-20",
-      "image": "https://www.theiphonewiki.com/w/images/7/77/IPhone_5c_white.png"
+      "image": "https://www.theiphonewiki.com/w/images/7/77/IPhone_5c_white.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_5c"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5s.json",
       "name": "iPhone 5s",
       "release_date": "2013-09-20",
-      "image": "https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png"
+      "image": "https://www.theiphonewiki.com/w/images/0/0f/IPhone_5s_black.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_5s"
     },
     {
       "path": "api/v1/devices/iphone/iphone_5.json",
       "name": "iPhone 5",
       "release_date": "2012-09-21",
-      "image": "https://www.theiphonewiki.com/w/images/f/fa/IPhone_5.png"
+      "image": "https://www.theiphonewiki.com/w/images/f/fa/IPhone_5.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPhone_5"
     },
     {
       "path": "api/v1/devices/iphone/iphone_4s.json",
       "name": "iPhone 4s",
       "release_date": "2011-10-14",
-      "image": "https://www.theiphonewiki.com/w/images/d/d2/IPhone4S.png"
+      "image": "https://www.theiphonewiki.com/w/images/d/d2/IPhone4S.png",
+      "url": "https://www.theiphonewiki.com/wiki/N94AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone_4.json",
       "name": "iPhone 4",
       "release_date": "2010-04-24",
-      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png"
+      "image": "https://www.theiphonewiki.com/w/images/d/dc/IPhone3%2C1.png",
+      "url": "https://www.theiphonewiki.com/wiki/N90AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone_3gs.json",
       "name": "iPhone 3GS",
       "release_date": "2009-07-19",
-      "image": "https://www.theiphonewiki.com/w/images/1/1b/IPhone3GS.png"
+      "image": "https://www.theiphonewiki.com/w/images/1/1b/IPhone3GS.png",
+      "url": "https://www.theiphonewiki.com/wiki/N88AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone_3g.json",
       "name": "iPhone 3G",
       "release_date": "2008-07-11",
-      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png"
+      "image": "https://www.theiphonewiki.com/w/images/8/8a/IPhone3G.png",
+      "url": "https://www.theiphonewiki.com/wiki/N82AP"
     },
     {
       "path": "api/v1/devices/iphone/iphone.json",
       "name": "iPhone 1st Generation",
       "release_date": "2007-06-29",
-      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1%2C1.png"
+      "image": "https://www.theiphonewiki.com/w/images/0/0b/IPhone1%2C1.png",
+      "url": "https://www.theiphonewiki.com/wiki/M68AP"
     }
   ],
   "ipod_touch": [
@@ -178,37 +206,43 @@
       "path": "api/v1/devices/ipod_touch/ipod_touch_6.json",
       "name": "iPod Touch 6th Generation",
       "release_date": "2015-07-15",
-      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_%286th_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/2/22/IPod_touch_%286th_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/N102AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_5.json",
       "name": "iPod Touch 5th Generation",
       "release_date": "2012-10-11",
-      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/2/25/IPod_touch_%285th_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/IPod_touch_(5th_generation)"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_4.json",
       "name": "iPod Touch 4th Generation",
       "release_date": "2010-09-01",
-      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_%284th_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/4/4c/IPod_touch_%284th_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/N81AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_3.json",
       "name": "iPod Touch 3rd Generation",
       "release_date": "2008-09-09",
-      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_%283rd_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/6/64/IPod_touch_%283rd_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/N18AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_2.json",
       "name": "iPod Touch 2nd Generation",
       "release_date": "2008-09-09",
-      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_%282nd_generation%29.png"
+      "image": "https://www.theiphonewiki.com/w/images/2/2f/IPod_touch_%282nd_generation%29.png",
+      "url": "https://www.theiphonewiki.com/wiki/N72AP"
     },
     {
       "path": "api/v1/devices/ipod_touch/ipod_touch_1.json",
       "name": "iPod Touch 1st Generation",
       "release_date": "2007-09-05",
-      "image": "https://www.theiphonewiki.com/w/images/3/35/IPod_touch.png"
+      "image": "https://www.theiphonewiki.com/w/images/3/35/IPod_touch.png",
+      "url": "https://www.theiphonewiki.com/wiki/N45AP"
     }
   ]
 }

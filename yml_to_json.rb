@@ -43,7 +43,7 @@ end
 devices.each do |key, value|
   device = []
   value.each do |item|
-    device.push({'path': item['path'], 'name': item['name'], 'release_date': item['release_date'], 'image': item['image']})
+    device.push({'path': item['path'], 'name': item['name'], 'release_date': item['release_date'], 'image': item['image'], 'url': item['url']})
   end
   devices[key] = device
 end
