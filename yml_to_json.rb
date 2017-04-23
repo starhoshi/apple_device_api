@@ -1,8 +1,7 @@
 require 'yaml'
 require 'json'
 
-
-
+devices = []
 Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
   p "input yml filepath:     #{yml_filepath}"
 
@@ -15,13 +14,24 @@ Dir.glob('data/**/{[!template]}*.yml').each do |yml_filepath|
 
   FileUtils.mkdir_p(output_dir) unless FileTest.exist?(output_dir)
 
-  yml = File.open(yml_filepath, 'r').read
+  yml = File.read(yml_filepath)
   json = JSON.pretty_generate(YAML::load(yml))
 
   output_file = File.open(output_filename, 'w+')
   output_file.write(json)
   output_file.close
+
+  devices.push(YAML.load(File.read(yml_filepath)))
 end
+
+p devices
+
+hogeArray = devices.sort_by{|val| val['release_date']}.reverse
+
+hogeArray.each do |hogeHash|
+  p "release_date:#{hogeHash['release_date']}"
+end
+
 
 =begin
 
